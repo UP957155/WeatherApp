@@ -1,11 +1,12 @@
 # WeatherApp
 
-This app has two different directories: "client" and "server".
+This app has two different directories: "client-weather" and "server".
 Clone the repository with following command (you have to have git installed):
 
 ```bash
 
 git clone https://github.com/UP957155/WeatherApp.git
+cd WeatherApp
 
 ```
 
@@ -19,11 +20,11 @@ npm start
 
 ```
 
-Same process with "client" directory (Before run commands be sure you are in the WeatherApp directory. Be sure you don't stop server through this process):
+Same process with "client-weather" directory (Before run commands be sure you are in the WeatherApp directory. Be sure you don't stop server through this process):
 
 ```bash
 
-cd client
+cd client-weather
 npm install
 npm start
 
